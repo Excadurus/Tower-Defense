@@ -1,12 +1,12 @@
-#Tower Defense Project:
+Tower Defense Project:
 trying to imitate clash royale
 
 
 
-#Assignment Description
+Assignment Description
 https://docs.google.com/document/d/1TBGnOmGHCAED6mNiru0W15xaPnlZUW15YTCGWK1WDzE/edit
 
-#Video Link:
+Video Link:
 https://www.youtube.com/watch?v=CmQU3kmn3yM&feature=youtu.be
 
 
