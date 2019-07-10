@@ -29,6 +29,19 @@ Upperside Player: choose Cards with Q,W,E,R and Summon with Z,X,C
 Lower Player: choose cards with num1,num3,num7,num9 and Summon with num2,num4,num5
 
 # Screenshots
+Level Editor:
 
 ![alt text](https://github.com/Excadurus/Tower-Defense/blob/master/docs/Level%20Editor.png "Level Editor")
+
+Player Select:
+
+![alt text](https://github.com/Excadurus/Tower-Defense/blob/master/docs/PlayerSelect.png "Player Select")
+
+Pre Game:
+
+![alt text](https://github.com/Excadurus/Tower-Defense/blob/master/docs/SetTower.png "Set Towers")
+
+In Game:
+
+![alt text](https://github.com/Excadurus/Tower-Defense/blob/master/docs/inGame.png "In Game")
 
